@@ -910,7 +910,7 @@ mmorpg.tooltip.buff_mana_regen=用炸弹法术杀死目标可以让你的法力�
 
 mmorpg.tooltip.stats_on_weapon=武器属性
 mmorpg.tooltip.stats_on_armor=盔甲属性
-mmorpg.tooltip.stats_on_jewerly=宝珠属性
+mmorpg.tooltip.stats_on_jewerly=饰品属性
 
 mmorpg.tooltip.place_in_modify=把物品放入物品强化台
 mmorpg.tooltip.unlocks_runeword_combo=解锁符文之语组合
